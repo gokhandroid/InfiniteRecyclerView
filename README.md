@@ -1,1 +1,1 @@
-# infinityrecyclerview
+# infiniterecyclerview
